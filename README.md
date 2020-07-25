@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Pedrosa</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurpedrosa" alt="arthurpedrosa" /> </p>
 
