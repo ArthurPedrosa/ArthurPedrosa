@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on A4PM - **Novo Esus**
 
-- 💬 Ask me about **vue, javascript.**
+- 💬 Ask me about **Vue, Javascript.**
 
 - 📫 How to reach me **arthurpedrosaferreira1999@gmail.com**
 
