@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurpedrosa" alt="arthurpedrosa" /> </p>
 
-- 🔭 I’m currently working on A4PM - **Novo Esus**
+- 🔭 I’m currently working on A4PM 
 
 - 💬 Ask me about **Vue, Javascript.**
 
